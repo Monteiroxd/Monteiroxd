@@ -1,1 +1,4 @@
-# README.md
+- 👋 Hi, I’m Bruno Monteiro
+- 👀 I’m interested in HTML, CSS, JavaScript, React, TypeScript, Vue.js
+- 💞️ I’m looking to collaborate on Front-end
+- 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/bruno-monteiro-4b07a1219/) 
